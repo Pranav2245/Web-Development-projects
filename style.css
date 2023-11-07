@@ -1,0 +1,31 @@
+.navbar a{
+    float: right;
+    color: black;
+    font-weight: 400;
+    text-align: centre;
+    padding: 20px 20px;
+    font-size: 150%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.name{
+    position: absolute;
+    float: left;
+} 
+body{
+    background : linear-gradient(to right, #5c62d3, #86488e );
+} 
+.main{
+    padding-top: 13%;
+    padding-left: 10%;
+   
+}
+h1{
+    font-size: 400%;
+}
+h2{
+    font-size: 200%;
+} 
+.icon{
+    padding-left: 10%;
+}

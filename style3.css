@@ -1,0 +1,54 @@
+.navbar_about {
+        background: linear-gradient(to right, #5c62d3, #86488e  );
+        overflow: hidden;
+        padding: 7.5px 7.5px;
+    
+}
+
+.navbar_about a{
+    float: right;
+    color: rgb(11, 10, 10);
+    font-weight: 400;
+    text-align: centre;
+    padding: 20px 20px;
+    font-size: 150%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+.name{
+    position: absolute;
+    float: left;
+} 
+body{
+    background: linear-gradient(to right, #5c62d3, #86488e);
+    margin: 0;
+} 
+hr{
+    border-top: 2px solid black;
+} 
+.icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px; 
+} 
+.box {
+    display: flex;
+}
+.pic {
+    align-items: center;
+    width: 60%;
+    height: 50;
+    margin-top: 5%;
+    margin-left: 9%;
+} 
+.content {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5%;
+    font-size: larger;
+    font-size: 120;
+    width: 50%;
+    margin-right: 10%;
+} 
+h1 {
+    text-align: center;
+}
